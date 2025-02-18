@@ -1,0 +1,8 @@
+
+### `requirements.txt`
+cassio
+datasets
+langchain
+openai
+tiktoken
+PyPDF2
